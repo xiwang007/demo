@@ -7,3 +7,4 @@ var People = /** @class */ (function () {
 }());
 var a = new People('xiwang', 18);
 console.log(a);
+//冒个泡
